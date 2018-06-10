@@ -44,7 +44,7 @@ public class JavaFX7b01 extends Application {
 	/*
 	 * File for texture
 	 */
-	private final String directory = "file:src/lab04b/"; // where the image is
+	private final String directory = "file:src/edu/uwrf/csis337/lab4/b/"; // where the image is
 	private final String file      = "UWRFLogo.jpg"; // name of image file
 	private final String filename  = directory + file;
 	private Rotate rotate = new Rotate(0, 0, 0, 0, Rotate.Y_AXIS );

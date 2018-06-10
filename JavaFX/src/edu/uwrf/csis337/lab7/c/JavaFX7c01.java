@@ -42,7 +42,7 @@ public class JavaFX7c01 extends Application {
 	/*
 	 * File for texture
 	 */
-	private final String directory = "file:src/lab04b/"; // where the image is
+	private final String directory = "file:src/edu/uwrf/csis337/lab4/b/"; // where the image is
 	private final String file      = "UWRFLogo.jpg"; // name of image file
 	private final String filename  = directory + file;
 	private final Image        rim  = new Image(filename);
